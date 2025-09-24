@@ -7,6 +7,7 @@ Plug the Control box into a micro usb. One should have been provided with the un
 
 # 2.Connect to it.
 Using your phone or a computer connect to the devices access point. It hosts this access point for 10 minutes or until it has been accessed atleast once on your local network. The devices AP password is printed on the back of the control unit.
+<img width="300" height="450" alt="image" src="https://github.com/user-attachments/assets/45f63a68-3162-4dbc-a0f4-8124b8bd82b9" />
 
 
 # 3. Network Configuration.
