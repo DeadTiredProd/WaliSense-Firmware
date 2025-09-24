@@ -22,6 +22,7 @@ Enter your SSID and Password it will connect the control unit to your local netw
 Your password may be printed on the back of your router or someone in your household has likely already changed it to something else when in doubt ask about!
 Once connected it will display a page like this one allowing you to see the devices IP address.  This address is used to interface with the device and will be how you access the dashboard until an app is developed.
 
+<img width="198" height="314" alt="image" src="https://github.com/user-attachments/assets/5c9ed4b5-a5b5-4d73-8e2e-47bfb30f6674" />
 
 
 
