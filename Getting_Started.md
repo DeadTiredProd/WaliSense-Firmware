@@ -13,6 +13,7 @@ Using your phone or a computer connect to the devices access point. It hosts thi
 # 3. Network Configuration.
 Scan the QR code or go to the ip printed on the back of the controller, It will take you to the network configuration page. You must be connected to the access point for it to show you the network configuration page.
 
+<img width="162" height="173" alt="image" src="https://github.com/user-attachments/assets/c6fd4d23-eeed-4d1c-800b-ee6fce971e5b" />
 
 
 
