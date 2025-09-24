@@ -18,7 +18,10 @@ Scan the QR code or go to the ip printed on the back of the controller, It will 
 # 4. Enter Network Information
 Enter your SSID and Password it will connect the control unit to your local network.
 Your password may be printed on the back of your router or someone in your household has likely already changed it to something else when in doubt ask about!
-Once connected it will display a page like this one allowing you to see the devices IP address.  This address is used to interface with the device and will be how you access the dashboard until an app is developed
+Once connected it will display a page like this one allowing you to see the devices IP address.  This address is used to interface with the device and will be how you access the dashboard until an app is developed.
+
+
+
 
 
 
