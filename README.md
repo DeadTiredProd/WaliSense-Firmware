@@ -1,5 +1,5 @@
 # Getting Started
-https://github.com/DeadTiredProd/WaliSense-Firmware/blob/main/Getting_Started.md
+](https://github.com/DeadTiredProd/WaliSense-Firmware/blob/main/Getting_Started)
 
-# Configuration
-https://github.com/DeadTiredProd/WaliSense-Firmware/blob/main/Configuration.md
+#Configuration
+](https://github.com/DeadTiredProd/WaliSense-Firmware/blob/main/Configuration)
